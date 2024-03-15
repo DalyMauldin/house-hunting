@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"a73b9f801a130f33","type":"text","text":"House Search","x":-340,"y":-205,"width":250,"height":60},
+		{"id":"f23a2cf4c2a238f1","type":"text","text":"House Results","x":-40,"y":-205,"width":250,"height":60},
+		{"id":"54165ee191fdb1b0","type":"text","text":"Account","x":260,"y":-205,"width":250,"height":60},
+		{"id":"a321cd61737398d5","type":"text","text":"Dashboard","x":-640,"y":-205,"width":250,"height":60},
+		{"id":"481e1315f248551b","type":"text","text":"House-Hunting","x":-200,"y":-420,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"b43e207084c780aa","fromNode":"481e1315f248551b","fromSide":"bottom","toNode":"a321cd61737398d5","toSide":"top"},
+		{"id":"690abd072e00b1f9","fromNode":"481e1315f248551b","fromSide":"bottom","toNode":"a73b9f801a130f33","toSide":"top"},
+		{"id":"06040a17f2674f38","fromNode":"481e1315f248551b","fromSide":"bottom","toNode":"f23a2cf4c2a238f1","toSide":"top"},
+		{"id":"df3aad99f3889ca3","fromNode":"481e1315f248551b","fromSide":"bottom","toNode":"54165ee191fdb1b0","toSide":"top"}
+	]
+}
